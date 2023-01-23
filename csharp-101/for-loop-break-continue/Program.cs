@@ -56,7 +56,7 @@ class Program
             Console.WriteLine(i);
         }
 
-         for(;;) // Infinite loop. Doesn't recommend to use.
+         for(;;) // Infinite loop. not recommended for use
         {
             Console.WriteLine("keep going forever :)");
             
