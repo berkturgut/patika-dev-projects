@@ -39,5 +39,5 @@ class Program
         }
         Console.WriteLine("Avarage is : " + (sum / arrayLength) );
     }
-    }
+    
 }
