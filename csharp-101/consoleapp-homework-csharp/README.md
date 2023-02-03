@@ -12,7 +12,7 @@ Program has four different actions.
 - Sorting words.
 - Calculating total words and characters in a sentence.
 
-![](/img/header.png)
+![](img/header.png)
 
 ## Installation
 
