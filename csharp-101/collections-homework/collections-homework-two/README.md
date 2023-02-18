@@ -1,4 +1,4 @@
-# Multi Purpose Calculator
+# Avarage and Min Max  Calculator
 
 This console app is ".NET Core Learning Path" project assignment prepared for [@Patika.dev](https://patika.dev)  
 
@@ -6,14 +6,14 @@ This console app is ".NET Core Learning Path" project assignment prepared for [@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Program has five different actions.
+Program has four different actions.
 - 
-  Finding prime numbers from given 20 numbers.
+  Finding highest three numbers from given 20 numbers.
 
-- Finding composite numbers from given 20 numbers..
-- Sorting prime and composite numbers.
-- Counting the prime and composite numbers.
-- Calculating the avarage of prime and composite numbers.
+- Finding lowest three numbers from given 20 numbers..
+- Calculating the avarage of highest three numbers.
+- Calculating the avarage of lowest three numbers.
+- Calculating sum of avarages highest and lowest three numbers.
 
 ![](img/header.png)
 
@@ -28,14 +28,14 @@ https://github.com/berkturgut/kodluyoruzilkrepo.git
 ## Usage example
 
 * You should enter 20 different positive integer numbers.
-* If you enter a character other than positive integer program will throw an error.
+* You should only enter a positive integer otherwise program will throw an error.
 
 ## Roadmap
 
 - [x] Readme.md
     - [x] Add Readme.md
     - [x] Usage Example
-- [ ] Bug fix 
+- [x] Bug fix 
 
 
 <!-- CONTRIBUTING -->
@@ -71,6 +71,6 @@ Project Link : [https://github.com/berkturgut/patika-dev-projects](https://githu
 <!-- Markdown link & img dfn's -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/berkturgut/patika-dev-projects/blob/main/csharp-101/consoleapp-homework-csharp/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&amp;amp;amp;logo=linkedin&amp;amp;amp;colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&amp;amp;amp;amp;amp;logo=linkedin&amp;amp;amp;amp;amp;colorB=555
 [linkedin-url]: https://linkedin.com/in/berk-turgut
 [wiki]: https://github.com/yourname/yourproject/wiki

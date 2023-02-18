@@ -33,7 +33,8 @@ public static class BasicCalculations
             numbers[i] = number;
 
            else
-           Console.WriteLine("Invalid Input");  
+           Console.WriteLine("Invalid Input"); 
+           Environment.Exit(0); 
 
         }
     }
