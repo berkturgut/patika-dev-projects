@@ -6,7 +6,7 @@ class Program
     {
         List<string> vowels = new List<string>();
        
-        Console.WriteLine("Please enter a sentences: ");
+        Console.WriteLine("Please enter a sentence: ");
         string sentence = Console.ReadLine();
         
         Operations.FindVowels(sentence,vowels);
