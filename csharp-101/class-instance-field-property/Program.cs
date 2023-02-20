@@ -3,6 +3,25 @@ class Program
 {
     static void Main(string[] args)
     {
+
+           // Syntax
+        // Class ClassName
+        //{
+        //    [Access Modifiers]    [Data Type] PropertyName:
+        //    [Access Modifiers]    [Return Type] MethodsName ([List of parameters])
+        //    {
+        //        // Operations
+        //    }
+
+        //Access Modifiers
+        // * Public
+        // * Private
+        // * Internal
+        // * Protected
+
+
+
+
         Employee employeeOne = new Employee();
         employeeOne.Name = "Berk";
         employeeOne.LastName = "Turgut";
